@@ -1,0 +1,10 @@
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\bin\Debug\netcoreapp2.2\BilletesMonedas2.deps.json
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\bin\Debug\netcoreapp2.2\BilletesMonedas2.runtimeconfig.json
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\bin\Debug\netcoreapp2.2\BilletesMonedas2.runtimeconfig.dev.json
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\bin\Debug\netcoreapp2.2\BilletesMonedas2.dll
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\bin\Debug\netcoreapp2.2\BilletesMonedas2.pdb
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\obj\Debug\netcoreapp2.2\BilletesMonedas2.csproj.CoreCompileInputs.cache
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\obj\Debug\netcoreapp2.2\BilletesMonedas2.AssemblyInfoInputs.cache
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\obj\Debug\netcoreapp2.2\BilletesMonedas2.AssemblyInfo.cs
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\obj\Debug\netcoreapp2.2\BilletesMonedas2.dll
+C:\Users\LeandroGG\source\repos\BilletesMonedas2\BilletesMonedas2\obj\Debug\netcoreapp2.2\BilletesMonedas2.pdb
